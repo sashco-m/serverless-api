@@ -17,6 +17,8 @@ A Serverless starter that adds ES6, TypeScript, serverless-offline, linting, env
 - **Add environment variables for your stages**
 - **No need to manage Webpack or Babel configs**
 
+HELLO!
+
 ---
 
 ### Demo
